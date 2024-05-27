@@ -1,9 +1,9 @@
 [![MasterHead](header.png)](https://www.github.com/m4ur1n0)
-<style>
+<!--<style>
   .body {
     background-color : "white";
   }
-</style>
+</style> -->
 <!--[![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4ur1n0)](https://github.com/anuraghazra/github-readme-stats)-->
 # About Me
 I'm a student at Northwestern University, studying computer science and philosophy. I'm an aspiring full stack engineer, but I've loved coding for years and my interests really span the breadth of the CS field. Data privacy and system security are currently two core foci for me! I'm passionate about building beautiful, useful, and _secure_ solutions to all sorts of problems.
