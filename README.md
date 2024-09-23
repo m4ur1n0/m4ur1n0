@@ -30,11 +30,13 @@ I'm a student at Northwestern University, studying computer science and philosop
   
 </p>
 
+<!--
 <h3 align="left">Currently Mastering:</h3>
 <p>
 
   <a href="https://www.figma.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
 </p>
+-->
 
 <!--
 **m4ur1n0/m4ur1n0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
