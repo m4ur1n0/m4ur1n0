@@ -7,8 +7,8 @@ I'm a student at Northwestern University, studying computer science and philosop
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/theo-maurino-829929239" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue" alt="linkedin" height="40" width="80" /></a>
-  <a href="https://www.instagram.com/theomaurino/" target="_blank"><img align="center" src="instagram.png" height="40" width="40" /></a>
-<!--   <a href="mailto:thjmaurino@gmail.com" target="_blank"><img align="center" src="gmail.png" heigh="40" width="40" /></a> -->
+<!--   <a href="https://www.instagram.com/theomaurino/" target="_blank"><img align="center" src="instagram.png" height="40" width="40" /></a> -->
+  <a href="mailto:thjmaurino@gmail.com" target="_blank"><img align="center" src="gmail.png" heigh="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
